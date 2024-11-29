@@ -1,6 +1,6 @@
 .block.quote {
     background-color: #eee;
-    padding: 0 0 24px;
+    padding: 24px 24px;
     display: flex;
     flex-direction: column;
     margin: 1rem 0;
